@@ -1,0 +1,7 @@
+{
+  "name": "Sanchari Chennai Travel Community",
+  "description": "A comprehensive community management app for Sanchari Chennai travel members featuring one-time registration, event management, and automated MOM generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
